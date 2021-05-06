@@ -1,0 +1,49 @@
+[
+  {
+    "name": "2020-01-22 14:12:14",
+    "analysistype": [
+      {
+        "type":"Propagator",
+        "name": "Satellite1",
+        "analysistypes": [
+          {
+            "name": "Analysis1",
+            "id": "12b88cd8-52ab-4521-ab87-895b8cf20ea0"
+          },
+          {
+            "name": "Analysis2",
+            "id": "12b88cd8-52ab-4521-ab87-895b8cf20ea0"
+          }
+        ]
+      },
+      {
+         "type":"Propagator",
+        "name": "Satellite2",
+        "analysistypes": [
+          {
+            "name": "Analysis1",
+            "id": "12b88cd8-52ab-4521-ab87-895b8cf20ea0"
+          },
+          {
+            "name": "Analysis2",
+            "id": "12b88cd8-52ab-4521-ab87-895b8cf20ea0"
+          }
+        ]
+      },
+      {
+        "type":"groundstation",
+        "name": "GroundStation",
+         "analysistypes": [
+          {
+            "name": "Analysis1",
+            "id": "15b88cd8-52ab-4521-ab87-3421290"
+          },
+          {
+            "name": "Analysis2",
+            "id": "16b88cd8-52ab-4521-ab87-3333"
+          }
+        ]
+      }
+    ]
+  }
+]
