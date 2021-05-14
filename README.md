@@ -1,15 +1,4 @@
 
-# Hello Naushad!!!
-My Upwork account was suspended temporary yesterday night.
-So I send the email to the Upwork supprort team and it will be soon approved.
-I guess that was cause I gave my email on Upwork chat.
-Anyway because of timeline, I push this code first.
-if you review the code or test in this link https://2b13559d3587.ngrok.io/
- , and have any issue, please send me the email to my working email react.dev216@outlook.com until my account is approved
-Let's see via Upwork or email
-Thanks
-Kyrylo H.
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
